@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.528">
-  <testsuite name="Exchange Rate API Tests" errors="0" failures="0" skipped="0" timestamp="2024-01-30T07:59:28" time="1.282" tests="1">
-    <testcase classname="Exchange Rate API Tests get latest exchange" name="Exchange Rate API Tests get latest exchange" time="0.562">
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="2.733">
+  <testsuite name="Exchange Rate API Tests" errors="0" failures="0" skipped="0" timestamp="2024-01-30T09:21:05" time="2.506" tests="4">
+    <testcase classname="Exchange Rate API Tests Verify the HTTP status is 200" name="Exchange Rate API Tests Verify the HTTP status is 200" time="0.837">
+    </testcase>
+    <testcase classname="Exchange Rate API Tests Count the total number of currencies returned within the response" name="Exchange Rate API Tests Count the total number of currencies returned within the response" time="0.372">
+    </testcase>
+    <testcase classname="Exchange Rate API Tests Verify the currency &quot;GBP&quot; is shown within the response" name="Exchange Rate API Tests Verify the currency &quot;GBP&quot; is shown within the response" time="0.397">
+    </testcase>
+    <testcase classname="Exchange Rate API Tests Verify that when an invalid currency &quot;ZA&quot; that the test fails and prints out error Stack " name="Exchange Rate API Tests Verify that when an invalid currency &quot;ZA&quot; that the test fails and prints out error Stack " time="0.404">
     </testcase>
   </testsuite>
 </testsuites>
