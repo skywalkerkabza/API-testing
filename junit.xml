@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.557">
-  <testsuite name="Exchange Rate API Tests" errors="0" failures="0" skipped="0" timestamp="2024-01-30T07:49:18" time="1.314" tests="1">
-    <testcase classname="Exchange Rate API Tests get latest exchange" name="Exchange Rate API Tests get latest exchange" time="0.53">
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.528">
+  <testsuite name="Exchange Rate API Tests" errors="0" failures="0" skipped="0" timestamp="2024-01-30T07:59:28" time="1.282" tests="1">
+    <testcase classname="Exchange Rate API Tests get latest exchange" name="Exchange Rate API Tests get latest exchange" time="0.562">
     </testcase>
   </testsuite>
 </testsuites>
