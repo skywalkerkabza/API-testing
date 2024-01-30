@@ -18,13 +18,13 @@ To run the test suite, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
     ```bash
-    git clone https://github.com/your_username/exchange-rate-api-test.git
+    git clone https://github.com/skywalkerkabza/API-testing.git
     ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies using npm.
 
     ```bash
-    cd exchange-rate-api-test
+    cd API-testing
     npm install
     ```
 
