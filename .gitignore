@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment configuration
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# Test result files
+coverage/
+
+# macOS metadata
+.DS_Store
