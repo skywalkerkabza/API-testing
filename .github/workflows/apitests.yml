@@ -25,12 +25,4 @@ jobs:
         run: npm install
 
       - name: Run Jest Test
-        run: |
-          node_modules/.bin/jest \
-            --colors \
-            --ci \
-            --no-cache \
-            --forceExit \
-            --reporters=default \
-            --reporters=jest-junit \
-            __tests__/ExchangeRateAPI/ExchangeRateAPI.test.js
+        run: npm test
